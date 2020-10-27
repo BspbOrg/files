@@ -1,0 +1,41 @@
+{
+	"downloads": [{
+			"title": {
+				"bg": "Предотвратяване на трафика на защитени видове птици",
+				"en": "Prevention trafficking in protected bird species"
+				
+			},
+			"url": "https://github.com/BspbOrg/files/raw/master/org.bspb.smartbirds.pro/handBook_BG.pdf",
+"content_locale": "bg"
+
+		},
+		{
+			"title": {
+				"sq": "Si të parandalojmë trafikimin e llojeve të mbrojtur të shpendëve",
+				"en": "Prevention trafficking in protected bird species"
+				
+			},
+			"url": "https://github.com/BspbOrg/files/raw/master/org.bspb.smartbirds.pro/handBook_ALB.pdf",
+"content_locale": "sq"
+		},
+		{
+			"title": {
+				"el": "Προληψη προστατευομενων ειδων ορνιθοπανιδς",
+				"en": "Prevention trafficking in protected bird species"
+				
+			},
+			"url": "https://github.com/BspbOrg/files/raw/master/org.bspb.smartbirds.pro/handBook_GR.pdf",
+"content_locale": "gr"
+		},
+		{
+			"title": {
+				"mk": "Спречување трговија со заштитени видови птици",
+				"en": "Prevention trafficking in protected bird species"
+				
+			},
+			"url": "https://github.com/BspbOrg/files/raw/master/org.bspb.smartbirds.pro/handBook_MK.pdf",
+"content_locale": "mk"
+
+		}
+	]
+}
