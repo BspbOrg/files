@@ -1,10 +1,16 @@
 {
-  "dataVersion": 5,
+  "dataVersion": 10,
   "files": [
     {
       "name": "images.zip",
       "size": 42574033,
       "sha256": "5cf3a1f9cd0fad78bc28c640a0f2efcaaf9003bfc9eb43b3b1e141c6ac020add"
+    },
+    {
+      "name": "sounds-7bc4c204.zip",
+      "size": 17701,
+      "sha256": "7bc4c20451e6b3cd0c238eb41c21812cd78d4278cbc08781d32102d345c18ac1",
+      "url": "https://github.com/bspborg/files/releases/download/guide-sounds/sounds-7bc4c204.zip"
     }
   ]
 }
